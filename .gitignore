@@ -1,0 +1,43 @@
+# Файли тимчасових даних
+node_modules/
+npm-debug.log
+
+# Локальні конфігураційні файли
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Файли налаштувань
+.vscode/
+*.code-workspace
+
+# Локальні файли завантаження
+*.log
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# Локальні файли бази даних
+*.sqlite
+*.sqlite3
+*.db
+
+# Кешовані файли
+.cache/
+dist/
+build/
+
+# Локальні файли мов
+*.pot
+*.mo
+*.po
+
+# Локальні файли налаштувань редактора
+.idea/
+*.swp
+
+# Локальні файли зображень
+.DS_Store
+Thumbs.db
